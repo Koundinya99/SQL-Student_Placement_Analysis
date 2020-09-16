@@ -1,3 +1,8 @@
+#Koundinya M
+#17PE10024
+#Petroleum Engineering
+#Assignement-1
+
 CREATE DATABASE DB2;
 USE DB2;
 
